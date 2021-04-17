@@ -1,5 +1,6 @@
-#Desario Tecnico 
-##Implementação:
+# Desario Tecnico
+
+## Implementação:
 
 - Criar o ambiente virtual venv
 - Instalar django, djangorestframework e django-filter `pip install -r requirements.txt`
